@@ -1,0 +1,9 @@
+    username emeka
+    password henry2014
+    email emeka@gmail.com
+    full_name Emeka Okorie
+
+    username Amaka
+    password amaka2014
+    email amaka@gmail.com
+    full_name Amaka Williams
